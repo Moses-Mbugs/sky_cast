@@ -1,16 +1,13 @@
 # sky_cast
 
-A new Flutter project.
+A simple weather app that shows the current weather of major locations around the world
 
 ## Getting Started
+## On web
+Open the code on VS code 
+Open terminal and run the command "flutter run"
 
-This project is a starting point for a Flutter application.
+## Getting the APK
+run "flutter buld apk" keep in mind this is for android devices
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The APIkey has been hashed

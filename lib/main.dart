@@ -31,7 +31,7 @@ class _WeatherPageState extends State<WeatherPage> {
   String? _errorMessage;
 
   Future<void> _fetchWeatherData() async {
-    final String apiKey = '9af64933f6829ccf2ee0269b7aad2bd8';
+    final String apiKey = '########';
     final String location = _locationController.text;
     final String apiUrl =
         'https://api.openweathermap.org/data/2.5/weather?q=$location&appid=$apiKey&units=metric';

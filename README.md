@@ -1,4 +1,4 @@
-# sky_cast
+# SkyCast
 
 A simple weather app that shows the current weather of major locations around the world.
 Was a trial Project built on flutter framework and OpenWeatherMap for the API
@@ -12,4 +12,5 @@ Open terminal and run the command "flutter run"
 run "flutter buld apk" keep in mind this is for android devices
 
 ### Note
-The APIkey has been hashed
+- The APIkey has been hashed
+- This is a new repository I created for the public
